@@ -1,0 +1,2 @@
+# MobileOpticalReader
+Bitirme Projesi
