@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059830261802",
+    "project_id": "bitirme-projesi-e8bbc",
+    "storage_bucket": "bitirme-projesi-e8bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059830261802:android:c76e17d11fd7a61cf3bb53",
+        "android_client_info": {
+          "package_name": "com.example.mobile_optical_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhCMmx29NXJb0ebVkuHCF22d_VLFgMWQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
